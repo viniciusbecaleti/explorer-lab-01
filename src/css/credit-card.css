@@ -58,6 +58,11 @@
   align-items: center;
 }
 
+.cc-expiration,
+.cc-security {
+  flex: 1;
+}
+
 .cc,
 .cc-logo,
 .cc-number {
